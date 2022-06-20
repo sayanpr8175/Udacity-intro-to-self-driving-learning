@@ -50,8 +50,8 @@ vector<double> movex(vector<double> probability, int step, double pExact, double
     for (int i = 0; i < probability.size(); i++)
     {
         double s = pExact * probability[(i - step) % probability.size()];
-        s = s + (pOvershoot * probability[(i - step-1) % probability.size()]);
-        s = s + (pUndershoot * probability[(i - step+1) % probability.size()]);
+        s = s + pOvershoot * probability[(i - step-1) % probability.size()];
+        s = s + pUndershoot * probability[(i - step+1) % probability.size()];
 
         result.push_back(s);
 

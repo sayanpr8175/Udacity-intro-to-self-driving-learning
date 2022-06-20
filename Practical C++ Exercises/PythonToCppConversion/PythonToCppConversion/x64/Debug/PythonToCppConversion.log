@@ -1,2 +1,7 @@
 ﻿  main.cpp
-  PythonToCppConversion.vcxproj -> C:\Users\sayan\source\repos\PythonToCppConversion\x64\Debug\PythonToCppConversion.exe
+C:\Users\sayan\OneDrive\Desktop\Udacity my Learning Intro To Self Driving Car\Practical C++ Exercises\PythonToCppConversion\PythonToCppConversion\main.cpp(124,52): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  PythonToCppConversion.vcxproj -> C:\Users\sayan\OneDrive\Desktop\Udacity my Learning Intro To Self Driving Car\Practical C++ Exercises\PythonToCppConversion\x64\Debug\PythonToCppConversion.exe
