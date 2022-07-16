@@ -36,6 +36,12 @@
 
 
   *  Programming Probability distributions
+
+  <div align="center">
+  <a href="Bayesian Thinking in Python/10. Gaussian Distribution/MyWorkSpace/gaussian_density_results.png">
+    <img src="Bayesian Thinking in Python/10. Gaussian Distribution/MyWorkSpace/gaussian_density_results.png" alt="Logo" width="980" height="580">
+  </a>
+  </div>
   
   
   
