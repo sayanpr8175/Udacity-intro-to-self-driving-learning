@@ -51,6 +51,35 @@
     <img src="x_CourseProjectsImages/download.png" alt="Logo" width="420" height="280">
   </a>
   </div>
+  
+  ## Working With Matrices
+  
+  * Introduction to Kalman Filter
+
+  * Object-Oriented Programming
+
+  * Matrices and Transformation of State
+
+  * Implement Matrix Class
+
+
+  <div align="center">
+  <a href="x_CourseProjectsImages/lidar_kalman_Filter.png">
+    <img src="x_CourseProjectsImages/lidar_kalman_Filter.png" alt="KalamFilter1" width="420" height="280">
+  </a>
+  </div>
+  
+  
+  
+  <div align="center">
+  <a href="x_CourseProjectsImages/kalman_velo_2.png">
+    <img src="x_CourseProjectsImages/kalman_velo_2.png" alt="KalmanFilter2" width="420" height="280">
+  </a>
+  </div>
+  
+  
+  
+  
 
   
   
