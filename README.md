@@ -152,7 +152,7 @@
  
   <div align="center">
   <a href="x_CourseProjectsImages/Implement_Accelr.PNG">
-    <img src="x_CourseProjectsImages/Implement_Accelr.PNG" alt="Acceler_data_fromSpeed" width="650" height="1060">
+    <img src="x_CourseProjectsImages/Implement_Accelr.PNG" alt="Acceler_data_fromSpeed" width="650" height="860">
   </a>
   </div>
  
