@@ -9,7 +9,7 @@
   
 <div align="center">
   <a href="https://confirm.udacity.com/5VWLKPCM">
-    <img src="https://github.com/sayanpr8175/Udacity-intro-to-self-driving-learning/blob/83da061aa6dec1eed15bf2f017873c15489acb11/x_CourseProjectsImages/udacity_image.PNG" alt="Logo" width="1020" height="390">
+    <img src="https://github.com/sayanpr8175/Udacity-intro-to-self-driving-learning/blob/83da061aa6dec1eed15bf2f017873c15489acb11/x_CourseProjectsImages/udacity_image.PNG" alt="Logo" width="1020" height="310">
   </a>
   </div>
   
@@ -17,7 +17,7 @@
   * Joy Ride - Control Simulator with Python
   <div align="center">
   <a href="x_CourseProjectsImages/Udacity_Self_driving_car__First_Frame.png">
-    <img src="x_CourseProjectsImages/Udacity_Self_driving_car__First_Frame.png" alt="Logo" width="980" height="580">
+    <img src="x_CourseProjectsImages/Udacity_Self_driving_car__First_Frame.png" alt="Logo" width="980" height="510">
   </a>
   </div>
   
