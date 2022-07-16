@@ -15,7 +15,11 @@
   
   ## Section: Bayesian Thinking 
   * Joy Ride - Control Simulator with Python
-  
+  <div align="center">
+  <a href="x_CourseProjectsImages/Udacity_Self_driving_car__First_Frame.png">
+    <img src="x_CourseProjectsImages/Udacity_Self_driving_car__First_Frame.png" alt="Logo" width="980" height="320">
+  </a>
+  </div>
   
   
   
