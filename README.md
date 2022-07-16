@@ -115,7 +115,7 @@
 
   <div align="center">
   <a href="x_CourseProjectsImages/a_star_on_my_code.PNG">
-    <img src="x_CourseProjectsImages/a_star_on_my_code.PNG" alt="routePlanner_myCodeTest" width="730" height="590">
+    <img src="x_CourseProjectsImages/a_star_on_my_code.PNG" alt="routePlanner_myCodeTest" width="710" height="590">
   </a>
   </div>
   
