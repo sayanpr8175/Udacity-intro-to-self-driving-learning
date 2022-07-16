@@ -3,8 +3,12 @@
 
 <div align="center">
   <a href="https://confirm.udacity.com/5VWLKPCM">
-    <img src="https://www.udacity.com/blog/wp-content/uploads/2021/12/UdacityLogo-violet.svg" alt="Logo" width="380" height="380">
+    <img src="https://www.udacity.com/blog/wp-content/uploads/2021/12/UdacityLogo-violet.svg" alt="Logo" width="280" height="280">
   </a>
   </div>
   
-  [![Product Name Screen Shot][x_CourseProjectsImages/udacity_image.PNG]](https://example.com)
+<div align="center">
+  <a href="https://confirm.udacity.com/5VWLKPCM">
+    <img src="https://github.com/sayanpr8175/Udacity-intro-to-self-driving-learning/blob/83da061aa6dec1eed15bf2f017873c15489acb11/x_CourseProjectsImages/udacity_image.PNG" alt="Logo" width="480" height="480">
+  </a>
+  </div>
