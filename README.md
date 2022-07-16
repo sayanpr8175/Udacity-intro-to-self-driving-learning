@@ -52,7 +52,7 @@
   </a>
   </div>
   
-  ## Working With Matrices
+  ## Section: Working With Matrices
   
   * Introduction to Kalman Filter
 
@@ -78,6 +78,29 @@
   </div>
   
   
+  ## Section: C++ / Python vs. C++ speed
+  
+  * C++ Vectors
+
+  * C++ OOP
+
+  * Translate Python to C++
+
+  ## Section: Navigating Data Structures
+    
+  * Python Basic Data Structures
+
+  * Search Problem / A-Star Search algorithm
+
+  * Implement Route Planner
+
+    
+   <div align="center">
+  <a href="x_CourseProjectsImages/python_a_star_1.PNG">
+    <img src="x_CourseProjectsImages/python_a_star_1.PNG" alt="routePlanner" width="420" height="280">
+  </a>
+  </div>
+
   
   
 
