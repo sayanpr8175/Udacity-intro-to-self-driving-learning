@@ -20,11 +20,21 @@
     <img src="x_CourseProjectsImages/Udacity_Self_driving_car__First_Frame.png" alt="Logo" width="980" height="580">
   </a>
   </div>
+  
+  
  Next:
+ 
+ 
   * Programming Probability in Python
+  
   *  Bayes' Rule
+  
   *  Programming Baye's Rule and World Representation
+
+
   *  Probability Distributions
+
+
   *  Programming Probability distributions
   
   
