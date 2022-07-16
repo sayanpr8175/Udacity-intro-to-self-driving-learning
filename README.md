@@ -155,5 +155,23 @@
     <img src="x_CourseProjectsImages/Implement_Accelr.PNG" alt="Acceler_data_fromSpeed" width="880" height="660">
   </a>
   </div>
+  
+  
+* Accelerometers, Rate Gyros and Integrals
+
+
+* Accumulating Errors and adding bias
+
+
+<div align="center">
+  <a href="x_CourseProjectsImages/bias.png">
+    <img src="x_CourseProjectsImages/bias.png" alt="Acceler_data_fromSpeed" width="880" height="660">
+  </a>
+</div>
+
+
+
+
+
  
   
