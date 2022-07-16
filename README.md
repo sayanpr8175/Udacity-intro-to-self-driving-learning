@@ -97,7 +97,7 @@
     
    <div align="center">
   <a href="x_CourseProjectsImages/python_a_star_1.PNG">
-    <img src="x_CourseProjectsImages/python_a_star_1.PNG" alt="routePlanner" width="690" height="400">
+    <img src="x_CourseProjectsImages/python_a_star_1.PNG" alt="routePlanner" width="790" height="420">
   </a>
   </div>
 
