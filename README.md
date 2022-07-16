@@ -65,7 +65,7 @@
 
   <div align="center">
   <a href="x_CourseProjectsImages/lidar_kalman_Filter.png">
-    <img src="x_CourseProjectsImages/lidar_kalman_Filter.png" alt="KalamFilter1" width="420" height="280">
+    <img src="x_CourseProjectsImages/lidar_kalman_Filter.png" alt="KalamFilter1" width="620" height="380">
   </a>
   </div>
   
@@ -73,7 +73,7 @@
   
   <div align="center">
   <a href="x_CourseProjectsImages/kalman_velo_2.png">
-    <img src="x_CourseProjectsImages/kalman_velo_2.png" alt="KalmanFilter2" width="420" height="280">
+    <img src="x_CourseProjectsImages/kalman_velo_2.png" alt="KalmanFilter2" width="620" height="380">
   </a>
   </div>
   
@@ -97,7 +97,7 @@
     
    <div align="center">
   <a href="x_CourseProjectsImages/python_a_star_1.PNG">
-    <img src="x_CourseProjectsImages/python_a_star_1.PNG" alt="routePlanner" width="420" height="280">
+    <img src="x_CourseProjectsImages/python_a_star_1.PNG" alt="routePlanner" width="620" height="380">
   </a>
   </div>
 
