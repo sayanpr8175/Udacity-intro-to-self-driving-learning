@@ -9,6 +9,6 @@
   
 <div align="center">
   <a href="https://confirm.udacity.com/5VWLKPCM">
-    <img src="https://github.com/sayanpr8175/Udacity-intro-to-self-driving-learning/blob/83da061aa6dec1eed15bf2f017873c15489acb11/x_CourseProjectsImages/udacity_image.PNG" alt="Logo" width="810" height="280">
+    <img src="https://github.com/sayanpr8175/Udacity-intro-to-self-driving-learning/blob/83da061aa6dec1eed15bf2f017873c15489acb11/x_CourseProjectsImages/udacity_image.PNG" alt="Logo" width="910" height="380">
   </a>
   </div>
