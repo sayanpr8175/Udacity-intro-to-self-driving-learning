@@ -144,7 +144,7 @@
   
   <div align="center">
   <a href="x_CourseProjectsImages/Odometer_speed_derivative_2.PNG">
-    <img src="x_CourseProjectsImages/Odometer_speed_derivative_2.PNG" alt="Derivative_data" width="550" height="280">
+    <img src="x_CourseProjectsImages/Odometer_speed_derivative_2.PNG" alt="Derivative_data" width="650" height="320">
   </a>
   </div>
   
