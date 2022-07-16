@@ -119,7 +119,18 @@
   </a>
   </div>
   
+  ## Section: Vehicle Motion and Control
   
+  
+  * Odometers, Speedometers and Derivatives
+
+  * Accelerometers, Rate Gyros and Integrals
+
+  * Two Dimensional Robot Motion and Trigonometry
+
+  * Reconstructing Trajectories from Sensor Data
+
+
 
   
   
