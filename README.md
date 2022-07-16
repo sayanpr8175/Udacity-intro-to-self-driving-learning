@@ -174,7 +174,7 @@
 
 <div align="center">
   <a href="x_CourseProjectsImages/trajectories_2.PNG">
-    <img src="x_CourseProjectsImages/trajectories_2.PNG" alt="RecreatingTrajectories" width="680" height="520">
+    <img src="x_CourseProjectsImages/trajectories_2.PNG" alt="RecreatingTrajectories" width="680" height="480">
   </a>
 </div>
 
@@ -182,7 +182,7 @@
 
 <div align="center">
   <a href="x_CourseProjectsImages/testing_my_trajectories.PNG">
-    <img src="x_CourseProjectsImages/testing_my_trajectories.PNG" alt="RecreatingTrajectories" width="680" height="420">
+    <img src="x_CourseProjectsImages/testing_my_trajectories.PNG" alt="RecreatingTrajectories" width="680" height="380">
   </a>
 </div>
 
