@@ -174,7 +174,7 @@
 
 <div align="center">
   <a href="x_CourseProjectsImages/trajectories_2.PNG">
-    <img src="x_CourseProjectsImages/trajectories_2.PNG" alt="RecreatingTrajectories" width="480" height="320">
+    <img src="x_CourseProjectsImages/trajectories_2.PNG" alt="RecreatingTrajectories" width="680" height="520">
   </a>
 </div>
 
