@@ -7,5 +7,4 @@
   </a>
   </div>
   
-  [[https://github.com/sayanpr8175/Udacity-intro-to-self-driving-learning/blob/main/x_CourseProjectsImages/udacity_image.PNG|alt=UdacityCertificate]]
-
+  [![Product Name Screen Shot][x_CourseProjectsImages/udacity_image.PNG]](https://example.com)
