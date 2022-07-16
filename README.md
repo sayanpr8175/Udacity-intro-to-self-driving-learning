@@ -101,9 +101,9 @@
   </a>
   </div>
   
-     <div align="center">
+  <div align="center">
   <a href="x_CourseProjectsImages/a_star_2.PNG">
-    <img src="x_CourseProjectsImages/a_star_2.PNG" alt="routePlanner" width="790" height="470">
+    <img src="x_CourseProjectsImages/a_star_2.PNG" alt="routePlanner2" width="790" height="470">
   </a>
   </div>
 
