@@ -186,8 +186,15 @@
   </a>
 </div>
 
+## Section: Computer Vision and Machine Learning
 
+* Traffic Light classifier only based on image features
 
+<div align="center">
+  <a href="x_CourseProjectsImages/classifier.PNG">
+    <img src="x_CourseProjectsImages/classifier.PNG" alt="RecreatingTrajectories" width="680" height="380">
+  </a>
+</div>
 
 
  
